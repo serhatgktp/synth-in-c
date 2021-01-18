@@ -15,6 +15,8 @@ To add notes to your composition, select 0
 To export your composition, select 7. The program will create a file called output.wav
 You can casually double-click the file to hear it
 
+Harmonize (9) is a pretty cool command. Self explanatory. Try it out!
+
 The rest of the commands are for inspecting and diagnosing your masterpiece
 
 This program is mindful of memory. However, to release the memory occupied by your composition please exit the program using the command 10
