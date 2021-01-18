@@ -20,3 +20,14 @@ The rest of the commands are for inspecting and diagnosing your masterpiece
 This program is mindful of memory. However, to release the memory occupied by your composition please exit the program using the command 10
 
 There are a couple musical pieces included that you can test the program with 
+
+Example for opening one of the files:
+  /> 6
+  /> minuet.txt
+  //                  We have read from the file into our program
+  /> 7
+  //                  We have exported the composition to output.wav
+  /> 10
+  //                  We have exited the program and cleared our memory
+  Run output.wav
+  -delightful music playing
